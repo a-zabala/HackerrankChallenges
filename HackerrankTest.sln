@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArray", "SortArray\Sort
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phonebook", "Phonebook\Phonebook.csproj", "{85A6ED88-6F93-4D6C-B18E-CE7D5C56D1A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialRecursion", "FactorialRecursion\FactorialRecursion.csproj", "{BCDA070B-24F2-49C3-ABF8-6255981D317C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialRecursion", "FactorialRecursion\FactorialRecursion.csproj", "{BCDA070B-24F2-49C3-ABF8-6255981D317C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csproj", "{CEDA8408-292F-4373-9522-73C4C756F002}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BCDA070B-24F2-49C3-ABF8-6255981D317C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCDA070B-24F2-49C3-ABF8-6255981D317C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCDA070B-24F2-49C3-ABF8-6255981D317C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDA8408-292F-4373-9522-73C4C756F002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDA8408-292F-4373-9522-73C4C756F002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDA8408-292F-4373-9522-73C4C756F002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDA8408-292F-4373-9522-73C4C756F002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
