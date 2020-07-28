@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phonebook", "Phonebook\Phon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialRecursion", "FactorialRecursion\FactorialRecursion.csproj", "{BCDA070B-24F2-49C3-ABF8-6255981D317C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csproj", "{CEDA8408-292F-4373-9522-73C4C756F002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary", "Binary\Binary.csproj", "{CEDA8408-292F-4373-9522-73C4C756F002}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArrayHourglass", "2DArrayHourglass\2DArrayHourglass.csproj", "{CBD56A83-0909-4CF7-9E03-C069CB1C9079}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockPairs", "SockPairs\SockPairs.csproj", "{04F3B1F4-080A-420B-9EA4-BD1DC4412D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{BCD06A1D-BFBA-4102-95CD-56AED50A1F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{CEDA8408-292F-4373-9522-73C4C756F002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEDA8408-292F-4373-9522-73C4C756F002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEDA8408-292F-4373-9522-73C4C756F002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD56A83-0909-4CF7-9E03-C069CB1C9079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD56A83-0909-4CF7-9E03-C069CB1C9079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD56A83-0909-4CF7-9E03-C069CB1C9079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD56A83-0909-4CF7-9E03-C069CB1C9079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F3B1F4-080A-420B-9EA4-BD1DC4412D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F3B1F4-080A-420B-9EA4-BD1DC4412D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F3B1F4-080A-420B-9EA4-BD1DC4412D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F3B1F4-080A-420B-9EA4-BD1DC4412D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD06A1D-BFBA-4102-95CD-56AED50A1F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD06A1D-BFBA-4102-95CD-56AED50A1F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD06A1D-BFBA-4102-95CD-56AED50A1F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD06A1D-BFBA-4102-95CD-56AED50A1F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
